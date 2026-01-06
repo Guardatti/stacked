@@ -37,5 +37,5 @@ El objetivo del proyecto es simular un sistema real de pedidos de comida, incorp
 ## 🔁 Flujo de pedidos
 
 ```txt
-PENDING → IN_PROGRESS → READY → DELIVERED
+PENNDIENTE → EN PROGRESO → PREPARADO → ENTREGADO
            ↘ CANCELLED
